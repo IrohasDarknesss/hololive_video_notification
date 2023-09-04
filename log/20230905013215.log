@@ -1,0 +1,2305 @@
+INFO : 2023-09-05 01:32:15,371 : -----------------START-------------------
+INFO : 2023-09-05 01:32:15,371 : Creating text file: ./text/talent_id.txt
+INFO : 2023-09-05 01:32:15,371 : Search Name:tokino-sora
+INFO : 2023-09-05 01:32:15,371 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:15,394 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:15,444 : https://hololive.hololivepro.com:443 "GET /talents/tokino-sora HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:15,518 : MacCyrillic confidence = 0.002358168254688646, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:15,558 : TIS-620 confidence = 0.020249371272681803, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:15,606 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:15,606 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:15,606 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:15,606 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:15,606 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:15,606 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:15,606 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:15,606 : EUC-TW Taiwan confidence = 0.01
+DEBUG : 2023-09-05 01:32:15,606 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:15,606 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:15,606 : ISO-8859-5 Russian confidence = 0.0032523747738105032
+DEBUG : 2023-09-05 01:32:15,606 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:15,606 : IBM866 Russian confidence = 0.10041606875561263
+DEBUG : 2023-09-05 01:32:15,606 : IBM855 Russian confidence = 0.11188828444499775
+DEBUG : 2023-09-05 01:32:15,606 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:15,606 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:15,606 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:15,606 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:15,606 : TIS-620 not active
+DEBUG : 2023-09-05 01:32:15,606 : ISO-8859-9 Turkish confidence = 0.45190835783915856
+DEBUG : 2023-09-05 01:32:15,606 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:15,606 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:15,606 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:15,606 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:15,606 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:15,606 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:15,606 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:15,606 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:15,606 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:15,606 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:15,606 : EUC-TW Taiwan confidence = 0.01
+INFO : 2023-09-05 01:32:15,620 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:15,620 : Search Name:roboco-san
+INFO : 2023-09-05 01:32:15,620 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:15,621 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:15,655 : https://hololive.hololivepro.com:443 "GET /talents/roboco-san HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:15,679 : SHIFT_JIS Japanese prober hit error at byte 739
+DEBUG : 2023-09-05 01:32:15,680 : EUC-JP Japanese prober hit error at byte 654
+DEBUG : 2023-09-05 01:32:15,681 : GB2312 Chinese prober hit error at byte 862
+DEBUG : 2023-09-05 01:32:15,681 : EUC-KR Korean prober hit error at byte 654
+DEBUG : 2023-09-05 01:32:15,682 : CP949 Korean prober hit error at byte 654
+DEBUG : 2023-09-05 01:32:15,682 : Big5 Chinese prober hit error at byte 655
+DEBUG : 2023-09-05 01:32:15,683 : EUC-TW Taiwan prober hit error at byte 654
+DEBUG : 2023-09-05 01:32:15,706 : MacCyrillic confidence = 0.002003360057936289, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:15,789 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:15,789 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:15,789 : ISO-8859-5 Russian confidence = 0.004133061446860674
+DEBUG : 2023-09-05 01:32:15,789 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:15,789 : IBM866 Russian confidence = 0.09654481197359674
+DEBUG : 2023-09-05 01:32:15,789 : IBM855 Russian confidence = 0.1177758218046812
+DEBUG : 2023-09-05 01:32:15,789 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:15,789 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:15,789 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:15,789 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:15,789 : TIS-620 Thai confidence = 0.0234166098351895
+DEBUG : 2023-09-05 01:32:15,789 : ISO-8859-9 Turkish confidence = 0.4636749309306741
+DEBUG : 2023-09-05 01:32:15,790 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:15,790 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:15,790 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:15,790 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:15,790 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:15,790 : ISO-8859-5 Russian confidence = 0.004133061446860674
+DEBUG : 2023-09-05 01:32:15,790 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:15,790 : IBM866 Russian confidence = 0.09654481197359674
+DEBUG : 2023-09-05 01:32:15,790 : IBM855 Russian confidence = 0.1177758218046812
+DEBUG : 2023-09-05 01:32:15,790 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:15,790 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:15,790 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:15,790 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:15,790 : TIS-620 Thai confidence = 0.0234166098351895
+DEBUG : 2023-09-05 01:32:15,790 : ISO-8859-9 Turkish confidence = 0.4636749309306741
+DEBUG : 2023-09-05 01:32:15,790 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:15,790 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:15,790 : windows-1255 Hebrew confidence = 0.0
+INFO : 2023-09-05 01:32:15,804 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:15,804 : Search Name:yozora-mel
+INFO : 2023-09-05 01:32:15,804 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:15,805 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:15,847 : https://hololive.hololivepro.com:443 "GET /talents/yozora-mel HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:15,875 : SHIFT_JIS Japanese prober hit error at byte 739
+DEBUG : 2023-09-05 01:32:15,876 : EUC-JP Japanese prober hit error at byte 654
+DEBUG : 2023-09-05 01:32:15,877 : GB2312 Chinese prober hit error at byte 859
+DEBUG : 2023-09-05 01:32:15,877 : EUC-KR Korean prober hit error at byte 654
+DEBUG : 2023-09-05 01:32:15,878 : CP949 Korean prober hit error at byte 654
+DEBUG : 2023-09-05 01:32:15,878 : Big5 Chinese prober hit error at byte 655
+DEBUG : 2023-09-05 01:32:15,878 : EUC-TW Taiwan prober hit error at byte 654
+DEBUG : 2023-09-05 01:32:15,906 : MacCyrillic confidence = 0.0023275788476367627, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:15,950 : TIS-620 confidence = 0.031287185432580474, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:16,004 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,004 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,004 : ISO-8859-5 Russian confidence = 0.003261730013407713
+DEBUG : 2023-09-05 01:32:16,004 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:16,004 : IBM866 Russian confidence = 0.09821175398953258
+DEBUG : 2023-09-05 01:32:16,004 : IBM855 Russian confidence = 0.0887116676517996
+DEBUG : 2023-09-05 01:32:16,004 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:16,004 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:16,004 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:16,004 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:16,004 : TIS-620 not active
+DEBUG : 2023-09-05 01:32:16,004 : ISO-8859-9 Turkish confidence = 0.4421553694282816
+DEBUG : 2023-09-05 01:32:16,004 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:16,004 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:16,004 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:16,004 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,004 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,004 : ISO-8859-5 Russian confidence = 0.003261730013407713
+DEBUG : 2023-09-05 01:32:16,004 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:16,004 : IBM866 Russian confidence = 0.09821175398953258
+DEBUG : 2023-09-05 01:32:16,004 : IBM855 Russian confidence = 0.0887116676517996
+DEBUG : 2023-09-05 01:32:16,004 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:16,004 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:16,004 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:16,004 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:16,004 : TIS-620 not active
+DEBUG : 2023-09-05 01:32:16,004 : ISO-8859-9 Turkish confidence = 0.4421553694282816
+DEBUG : 2023-09-05 01:32:16,004 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:16,004 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:16,004 : windows-1255 Hebrew confidence = 0.0
+INFO : 2023-09-05 01:32:16,019 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:16,019 : Search Name:aki-rosenthal
+INFO : 2023-09-05 01:32:16,019 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:16,020 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:16,051 : https://hololive.hololivepro.com:443 "GET /talents/aki-rosenthal HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:16,094 : SHIFT_JIS Japanese prober hit error at byte 742
+DEBUG : 2023-09-05 01:32:16,095 : EUC-JP Japanese prober hit error at byte 657
+DEBUG : 2023-09-05 01:32:16,095 : GB2312 Chinese prober hit error at byte 880
+DEBUG : 2023-09-05 01:32:16,096 : EUC-KR Korean prober hit error at byte 657
+DEBUG : 2023-09-05 01:32:16,096 : CP949 Korean prober hit error at byte 657
+DEBUG : 2023-09-05 01:32:16,097 : Big5 Chinese prober hit error at byte 658
+DEBUG : 2023-09-05 01:32:16,097 : EUC-TW Taiwan prober hit error at byte 657
+DEBUG : 2023-09-05 01:32:16,117 : ISO-8859-5 confidence = 0.004576885113012987, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:16,126 : MacCyrillic confidence = 0.004036970276857788, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:16,162 : ISO-8859-5 confidence = 0.0, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:16,176 : TIS-620 confidence = 0.01861964530841333, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:16,212 : windows-1255 confidence = 0.0, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:16,219 : windows-1255 confidence = 0.0, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:16,234 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,234 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,234 : ISO-8859-5 not active
+DEBUG : 2023-09-05 01:32:16,234 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:16,234 : IBM866 Russian confidence = 0.10218310484064273
+DEBUG : 2023-09-05 01:32:16,234 : IBM855 Russian confidence = 0.1049454161359069
+DEBUG : 2023-09-05 01:32:16,234 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:16,234 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:16,234 : ISO-8859-5 not active
+DEBUG : 2023-09-05 01:32:16,234 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:16,234 : TIS-620 not active
+DEBUG : 2023-09-05 01:32:16,234 : ISO-8859-9 Turkish confidence = 0.43355453861248977
+DEBUG : 2023-09-05 01:32:16,234 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:16,234 : windows-1255 not active
+DEBUG : 2023-09-05 01:32:16,234 : windows-1255 not active
+DEBUG : 2023-09-05 01:32:16,234 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,234 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,235 : ISO-8859-5 not active
+DEBUG : 2023-09-05 01:32:16,235 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:16,235 : IBM866 Russian confidence = 0.10218310484064273
+DEBUG : 2023-09-05 01:32:16,235 : IBM855 Russian confidence = 0.1049454161359069
+DEBUG : 2023-09-05 01:32:16,235 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:16,235 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:16,235 : ISO-8859-5 not active
+DEBUG : 2023-09-05 01:32:16,235 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:16,235 : TIS-620 not active
+DEBUG : 2023-09-05 01:32:16,235 : ISO-8859-9 Turkish confidence = 0.43355453861248977
+DEBUG : 2023-09-05 01:32:16,235 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:16,235 : windows-1255 not active
+DEBUG : 2023-09-05 01:32:16,235 : windows-1255 not active
+INFO : 2023-09-05 01:32:16,252 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:16,252 : Search Name:akai-haato
+INFO : 2023-09-05 01:32:16,252 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:16,254 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:16,287 : https://hololive.hololivepro.com:443 "GET /talents/akai-haato HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:16,351 : MacCyrillic confidence = 0.0028983875863867474, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:16,385 : TIS-620 confidence = 0.013560054165413648, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:16,428 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:16,428 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,428 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,428 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,428 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,428 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,428 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,428 : EUC-TW Taiwan confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,428 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,428 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,428 : ISO-8859-5 Russian confidence = 0.002839512570602278
+DEBUG : 2023-09-05 01:32:16,428 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:16,428 : IBM866 Russian confidence = 0.09543154983824859
+DEBUG : 2023-09-05 01:32:16,428 : IBM855 Russian confidence = 0.10899607582217466
+DEBUG : 2023-09-05 01:32:16,428 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:16,428 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:16,428 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:16,428 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:16,428 : TIS-620 not active
+DEBUG : 2023-09-05 01:32:16,428 : ISO-8859-9 Turkish confidence = 0.4682884979649593
+DEBUG : 2023-09-05 01:32:16,428 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:16,428 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:16,428 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:16,428 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:16,428 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,428 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,428 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,428 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,428 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,428 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,428 : EUC-TW Taiwan confidence = 0.01
+INFO : 2023-09-05 01:32:16,439 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:16,439 : Search Name:shirakami-fubuki
+INFO : 2023-09-05 01:32:16,439 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:16,441 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:16,505 : https://hololive.hololivepro.com:443 "GET /talents/shirakami-fubuki HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:16,580 : ISO-8859-5 confidence = 0.008224239909489872, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:16,589 : MacCyrillic confidence = 0.002479338089794846, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:16,625 : ISO-8859-5 confidence = 0.0, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:16,639 : TIS-620 confidence = 0.022585402425757843, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:16,697 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:16,697 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,697 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,697 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,697 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,697 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,697 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,697 : EUC-TW Taiwan confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,697 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,697 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,697 : ISO-8859-5 not active
+DEBUG : 2023-09-05 01:32:16,697 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:16,697 : IBM866 Russian confidence = 0.09107492047553614
+DEBUG : 2023-09-05 01:32:16,697 : IBM855 Russian confidence = 0.09705249571528897
+DEBUG : 2023-09-05 01:32:16,697 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:16,697 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:16,697 : ISO-8859-5 not active
+DEBUG : 2023-09-05 01:32:16,697 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:16,697 : TIS-620 not active
+DEBUG : 2023-09-05 01:32:16,697 : ISO-8859-9 Turkish confidence = 0.4365331046485503
+DEBUG : 2023-09-05 01:32:16,697 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:16,697 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:16,697 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:16,697 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:16,697 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,697 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,697 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,697 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,697 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,697 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,697 : EUC-TW Taiwan confidence = 0.01
+INFO : 2023-09-05 01:32:16,717 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:16,718 : Search Name:natsuiro-matsuri
+INFO : 2023-09-05 01:32:16,718 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:16,719 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:16,754 : https://hololive.hololivepro.com:443 "GET /talents/natsuiro-matsuri HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:16,833 : MacCyrillic confidence = 0.00272313728714696, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:16,874 : TIS-620 confidence = 0.026417724337745037, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:16,925 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:16,925 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,925 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,925 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,925 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,925 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,925 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,925 : EUC-TW Taiwan confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,925 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,925 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,925 : ISO-8859-5 Russian confidence = 0.005692599151791043
+DEBUG : 2023-09-05 01:32:16,925 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:16,925 : IBM866 Russian confidence = 0.08681904144807012
+DEBUG : 2023-09-05 01:32:16,925 : IBM855 Russian confidence = 0.10389228124322496
+DEBUG : 2023-09-05 01:32:16,925 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:16,925 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:16,925 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:16,925 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:16,925 : TIS-620 not active
+DEBUG : 2023-09-05 01:32:16,925 : ISO-8859-9 Turkish confidence = 0.4682606459685618
+DEBUG : 2023-09-05 01:32:16,925 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:16,925 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:16,925 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:16,925 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:16,925 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,925 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,925 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,925 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,925 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,925 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:16,925 : EUC-TW Taiwan confidence = 0.01
+INFO : 2023-09-05 01:32:16,938 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:16,938 : Search Name:minato-aqua
+INFO : 2023-09-05 01:32:16,938 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:16,939 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:16,972 : https://hololive.hololivepro.com:443 "GET /talents/minato-aqua HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:17,054 : MacCyrillic confidence = 0.0017615120543739175, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:17,100 : TIS-620 confidence = 0.014010454556555765, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:17,156 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:17,157 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,157 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,157 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,157 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,157 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,157 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,157 : EUC-TW Taiwan confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,157 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,157 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,157 : ISO-8859-5 Russian confidence = 0.007551038642181283
+DEBUG : 2023-09-05 01:32:17,157 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:17,157 : IBM866 Russian confidence = 0.08207959589099507
+DEBUG : 2023-09-05 01:32:17,157 : IBM855 Russian confidence = 0.10558072172012702
+DEBUG : 2023-09-05 01:32:17,157 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:17,157 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:17,157 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:17,157 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:17,157 : TIS-620 not active
+DEBUG : 2023-09-05 01:32:17,157 : ISO-8859-9 Turkish confidence = 0.44666002555724
+DEBUG : 2023-09-05 01:32:17,157 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:17,157 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:17,157 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:17,157 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:17,157 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,157 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,157 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,157 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,157 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,157 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,157 : EUC-TW Taiwan confidence = 0.01
+INFO : 2023-09-05 01:32:17,174 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:17,175 : Search Name:murasaki-shion
+INFO : 2023-09-05 01:32:17,175 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:17,176 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:17,210 : https://hololive.hololivepro.com:443 "GET /talents/murasaki-shion HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:17,279 : MacCyrillic confidence = 0.0017968124354592033, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:17,317 : TIS-620 confidence = 0.020303226462500237, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:17,365 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:17,365 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,365 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,365 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,365 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,365 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,365 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,365 : EUC-TW Taiwan confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,365 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,365 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,365 : ISO-8859-5 Russian confidence = 0.002388911891765128
+DEBUG : 2023-09-05 01:32:17,365 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:17,365 : IBM866 Russian confidence = 0.09364532466305807
+DEBUG : 2023-09-05 01:32:17,365 : IBM855 Russian confidence = 0.11420723080361478
+DEBUG : 2023-09-05 01:32:17,365 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:17,365 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:17,365 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:17,365 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:17,365 : TIS-620 not active
+DEBUG : 2023-09-05 01:32:17,365 : ISO-8859-9 Turkish confidence = 0.46456536330353226
+DEBUG : 2023-09-05 01:32:17,365 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:17,365 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:17,365 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:17,365 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:17,365 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,365 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,365 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,365 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,365 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,365 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,365 : EUC-TW Taiwan confidence = 0.01
+INFO : 2023-09-05 01:32:17,377 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:17,378 : Search Name:nakiri-ayame
+INFO : 2023-09-05 01:32:17,378 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:17,379 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:17,421 : https://hololive.hololivepro.com:443 "GET /talents/nakiri-ayame HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:17,495 : MacCyrillic confidence = 0.0023421859788639904, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:17,537 : TIS-620 confidence = 0.021369609682010023, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:17,588 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:17,588 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,588 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,588 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,588 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,588 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,588 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,588 : EUC-TW Taiwan confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,588 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,588 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,588 : ISO-8859-5 Russian confidence = 0.004277603353518644
+DEBUG : 2023-09-05 01:32:17,588 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:17,588 : IBM866 Russian confidence = 0.09117693454106175
+DEBUG : 2023-09-05 01:32:17,588 : IBM855 Russian confidence = 0.08627207392287983
+DEBUG : 2023-09-05 01:32:17,588 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:17,588 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:17,588 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:17,588 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:17,588 : TIS-620 not active
+DEBUG : 2023-09-05 01:32:17,588 : ISO-8859-9 Turkish confidence = 0.4523296805514203
+DEBUG : 2023-09-05 01:32:17,588 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:17,588 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:17,588 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:17,588 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:17,588 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,588 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,588 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,588 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,588 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,588 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,588 : EUC-TW Taiwan confidence = 0.01
+INFO : 2023-09-05 01:32:17,602 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:17,602 : Search Name:yuzuki-choco
+INFO : 2023-09-05 01:32:17,602 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:17,604 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:17,641 : https://hololive.hololivepro.com:443 "GET /talents/yuzuki-choco HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:17,714 : MacCyrillic confidence = 0.002193214529577688, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:17,756 : TIS-620 confidence = 0.02175854931897966, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:17,814 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:17,814 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,814 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,814 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,814 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,814 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,814 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,814 : EUC-TW Taiwan confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,814 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,814 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,814 : ISO-8859-5 Russian confidence = 0.003979983589324438
+DEBUG : 2023-09-05 01:32:17,814 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:17,814 : IBM866 Russian confidence = 0.09279003228520864
+DEBUG : 2023-09-05 01:32:17,814 : IBM855 Russian confidence = 0.09272936707586787
+DEBUG : 2023-09-05 01:32:17,814 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:17,814 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:17,814 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:17,814 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:17,814 : TIS-620 not active
+DEBUG : 2023-09-05 01:32:17,814 : ISO-8859-9 Turkish confidence = 0.4640165488919512
+DEBUG : 2023-09-05 01:32:17,814 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:17,814 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:17,814 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:17,814 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:17,814 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,814 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,814 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,814 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,814 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,814 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:17,814 : EUC-TW Taiwan confidence = 0.01
+INFO : 2023-09-05 01:32:17,827 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:17,827 : Search Name:oozora-subaru
+INFO : 2023-09-05 01:32:17,827 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:17,829 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:17,860 : https://hololive.hololivepro.com:443 "GET /talents/oozora-subaru HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:17,934 : MacCyrillic confidence = 0.002652869677425243, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:17,977 : TIS-620 confidence = 0.04420737544883284, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:18,031 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:18,031 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,031 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,031 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,031 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,031 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,031 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,031 : EUC-TW Taiwan confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,031 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,031 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,031 : ISO-8859-5 Russian confidence = 0.0038236732087449173
+DEBUG : 2023-09-05 01:32:18,031 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:18,031 : IBM866 Russian confidence = 0.08713225622430822
+DEBUG : 2023-09-05 01:32:18,031 : IBM855 Russian confidence = 0.09445486657268738
+DEBUG : 2023-09-05 01:32:18,031 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:18,031 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:18,031 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:18,031 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:18,031 : TIS-620 not active
+DEBUG : 2023-09-05 01:32:18,031 : ISO-8859-9 Turkish confidence = 0.46120660831085386
+DEBUG : 2023-09-05 01:32:18,031 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:18,031 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:18,031 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:18,031 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:18,031 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,031 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,031 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,032 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,032 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,032 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,032 : EUC-TW Taiwan confidence = 0.01
+INFO : 2023-09-05 01:32:18,046 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:18,046 : Search Name:azki
+INFO : 2023-09-05 01:32:18,046 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:18,048 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:18,079 : https://hololive.hololivepro.com:443 "GET /talents/azki HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:18,154 : MacCyrillic confidence = 0.0012031571313242397, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:18,197 : TIS-620 confidence = 0.02141497149990676, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:18,250 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:18,250 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,250 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,250 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,250 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,250 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,250 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,250 : EUC-TW Taiwan confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,250 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,250 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,250 : ISO-8859-5 Russian confidence = 0.009746853188411312
+DEBUG : 2023-09-05 01:32:18,250 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:18,250 : IBM866 Russian confidence = 0.09924489254444328
+DEBUG : 2023-09-05 01:32:18,250 : IBM855 Russian confidence = 0.10854560591447603
+DEBUG : 2023-09-05 01:32:18,250 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:18,250 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:18,250 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:18,250 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:18,250 : TIS-620 not active
+DEBUG : 2023-09-05 01:32:18,250 : ISO-8859-9 Turkish confidence = 0.45411177742434805
+DEBUG : 2023-09-05 01:32:18,250 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:18,250 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:18,250 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:18,250 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:18,250 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,250 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,250 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,250 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,250 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,250 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,250 : EUC-TW Taiwan confidence = 0.01
+INFO : 2023-09-05 01:32:18,264 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:18,264 : Search Name:ookami-mio
+INFO : 2023-09-05 01:32:18,264 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:18,266 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:18,300 : https://hololive.hololivepro.com:443 "GET /talents/ookami-mio HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:18,373 : MacCyrillic confidence = 0.0017615086681609347, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:18,413 : TIS-620 confidence = 0.023652093764812917, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:18,465 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:18,465 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,465 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,465 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,465 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,465 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,465 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,465 : EUC-TW Taiwan confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,465 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,465 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,465 : ISO-8859-5 Russian confidence = 0.005123611175659341
+DEBUG : 2023-09-05 01:32:18,465 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:18,465 : IBM866 Russian confidence = 0.09004177311258024
+DEBUG : 2023-09-05 01:32:18,465 : IBM855 Russian confidence = 0.09697764209467445
+DEBUG : 2023-09-05 01:32:18,465 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:18,465 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:18,465 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:18,465 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:18,465 : TIS-620 not active
+DEBUG : 2023-09-05 01:32:18,465 : ISO-8859-9 Turkish confidence = 0.46272250238624807
+DEBUG : 2023-09-05 01:32:18,465 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:18,465 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:18,465 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:18,465 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:18,465 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,465 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,466 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,466 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,466 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,466 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,466 : EUC-TW Taiwan confidence = 0.01
+INFO : 2023-09-05 01:32:18,478 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:18,478 : Search Name:sakuramiko
+INFO : 2023-09-05 01:32:18,478 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:18,481 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:18,513 : https://hololive.hololivepro.com:443 "GET /talents/sakuramiko HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:18,600 : MacCyrillic confidence = 0.0028921473414841616, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:18,636 : ISO-8859-5 confidence = 0.0, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:18,649 : TIS-620 confidence = 0.022075649139118737, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:18,707 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:18,707 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,707 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,707 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,707 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,707 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,707 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,707 : EUC-TW Taiwan confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,707 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,707 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,707 : ISO-8859-5 Russian confidence = 0.0061724654645014245
+DEBUG : 2023-09-05 01:32:18,707 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:18,707 : IBM866 Russian confidence = 0.09236908249160448
+DEBUG : 2023-09-05 01:32:18,707 : IBM855 Russian confidence = 0.09875015776416622
+DEBUG : 2023-09-05 01:32:18,707 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:18,707 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:18,707 : ISO-8859-5 not active
+DEBUG : 2023-09-05 01:32:18,707 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:18,707 : TIS-620 not active
+DEBUG : 2023-09-05 01:32:18,707 : ISO-8859-9 Turkish confidence = 0.4429410736513667
+DEBUG : 2023-09-05 01:32:18,707 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:18,707 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:18,707 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:18,707 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:18,707 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,707 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,707 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,707 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,707 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,707 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,707 : EUC-TW Taiwan confidence = 0.01
+INFO : 2023-09-05 01:32:18,723 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:18,723 : Search Name:nekomata-okayu
+INFO : 2023-09-05 01:32:18,723 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:18,724 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:18,755 : https://hololive.hololivepro.com:443 "GET /talents/nekomata-okayu HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:18,823 : MacCyrillic confidence = 0.0015393443735529913, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:18,901 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:18,901 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,901 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,901 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,901 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,901 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,901 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,901 : EUC-TW Taiwan confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,901 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,901 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,901 : ISO-8859-5 Russian confidence = 0.006118548227476354
+DEBUG : 2023-09-05 01:32:18,901 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:18,901 : IBM866 Russian confidence = 0.08440760742841714
+DEBUG : 2023-09-05 01:32:18,901 : IBM855 Russian confidence = 0.1028921824228725
+DEBUG : 2023-09-05 01:32:18,901 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:18,901 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:18,901 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:18,901 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:18,901 : TIS-620 Thai confidence = 0.022399963234684236
+DEBUG : 2023-09-05 01:32:18,901 : ISO-8859-9 Turkish confidence = 0.4738897096321896
+DEBUG : 2023-09-05 01:32:18,902 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:18,902 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:18,902 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:18,902 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:18,902 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,902 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,902 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,902 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,902 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,902 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:18,902 : EUC-TW Taiwan confidence = 0.01
+INFO : 2023-09-05 01:32:18,913 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:18,913 : Search Name:inugami-korone
+INFO : 2023-09-05 01:32:18,913 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:18,915 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:18,952 : https://hololive.hololivepro.com:443 "GET /talents/inugami-korone HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:19,020 : MacCyrillic confidence = 0.001381067036912977, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:19,098 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:19,098 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,098 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,098 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,098 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,098 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,098 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,098 : EUC-TW Taiwan confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,098 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,098 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,098 : ISO-8859-5 Russian confidence = 0.0036606341719824416
+DEBUG : 2023-09-05 01:32:19,098 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:19,098 : IBM866 Russian confidence = 0.09316981251624955
+DEBUG : 2023-09-05 01:32:19,098 : IBM855 Russian confidence = 0.09759822518729079
+DEBUG : 2023-09-05 01:32:19,098 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,098 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,098 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,098 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,098 : TIS-620 Thai confidence = 0.018629782814609114
+DEBUG : 2023-09-05 01:32:19,098 : ISO-8859-9 Turkish confidence = 0.474619382613027
+DEBUG : 2023-09-05 01:32:19,098 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,098 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,098 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,098 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:19,098 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,099 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,099 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,099 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,099 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,099 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,099 : EUC-TW Taiwan confidence = 0.01
+INFO : 2023-09-05 01:32:19,110 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:19,110 : Search Name:hoshimachi-suisei
+INFO : 2023-09-05 01:32:19,110 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:19,111 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:19,142 : https://hololive.hololivepro.com:443 "GET /talents/hoshimachi-suisei HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:19,221 : MacCyrillic confidence = 0.003392567830454111, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:19,317 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:19,317 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,317 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,317 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,317 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,317 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,317 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,317 : EUC-TW Taiwan confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,317 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,317 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,317 : ISO-8859-5 Russian confidence = 0.009224442433327946
+DEBUG : 2023-09-05 01:32:19,317 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:19,317 : IBM866 Russian confidence = 0.08404695726693788
+DEBUG : 2023-09-05 01:32:19,317 : IBM855 Russian confidence = 0.10513907204800309
+DEBUG : 2023-09-05 01:32:19,317 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,318 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,318 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,318 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,318 : TIS-620 Thai confidence = 0.02537304105651602
+DEBUG : 2023-09-05 01:32:19,318 : ISO-8859-9 Turkish confidence = 0.4614634977816622
+DEBUG : 2023-09-05 01:32:19,318 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,318 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,318 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,318 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:19,318 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,318 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,318 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,318 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,318 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,318 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,318 : EUC-TW Taiwan confidence = 0.01
+INFO : 2023-09-05 01:32:19,333 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:19,333 : Search Name:usada-pekora
+INFO : 2023-09-05 01:32:19,333 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:19,334 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:19,368 : https://hololive.hololivepro.com:443 "GET /talents/usada-pekora HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:19,442 : MacCyrillic confidence = 0.0016052700320889387, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:19,483 : TIS-620 confidence = 0.02061251377211373, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:19,535 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:19,536 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,536 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,536 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,536 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,536 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,536 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,536 : EUC-TW Taiwan confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,536 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,536 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,536 : ISO-8859-5 Russian confidence = 0.004812948653659199
+DEBUG : 2023-09-05 01:32:19,536 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:19,536 : IBM866 Russian confidence = 0.07999558157386337
+DEBUG : 2023-09-05 01:32:19,536 : IBM855 Russian confidence = 0.1154048290451829
+DEBUG : 2023-09-05 01:32:19,536 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,536 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,536 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,536 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,536 : TIS-620 not active
+DEBUG : 2023-09-05 01:32:19,536 : ISO-8859-9 Turkish confidence = 0.45895210748807713
+DEBUG : 2023-09-05 01:32:19,536 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,536 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,536 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,536 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:19,536 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,536 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,536 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,536 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,536 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,536 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,536 : EUC-TW Taiwan confidence = 0.01
+INFO : 2023-09-05 01:32:19,550 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:19,550 : Search Name:shiranui-flare
+INFO : 2023-09-05 01:32:19,550 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:19,551 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:19,583 : https://hololive.hololivepro.com:443 "GET /talents/shiranui-flare HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:19,602 : SHIFT_JIS Japanese prober hit error at byte 743
+DEBUG : 2023-09-05 01:32:19,603 : EUC-JP Japanese prober hit error at byte 658
+DEBUG : 2023-09-05 01:32:19,603 : GB2312 Chinese prober hit error at byte 869
+DEBUG : 2023-09-05 01:32:19,604 : EUC-KR Korean prober hit error at byte 658
+DEBUG : 2023-09-05 01:32:19,604 : CP949 Korean prober hit error at byte 658
+DEBUG : 2023-09-05 01:32:19,605 : Big5 Chinese prober hit error at byte 659
+DEBUG : 2023-09-05 01:32:19,605 : EUC-TW Taiwan prober hit error at byte 658
+DEBUG : 2023-09-05 01:32:19,629 : MacCyrillic confidence = 0.0021155245773629445, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:19,670 : TIS-620 confidence = 0.019931522688524037, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:19,720 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,720 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,720 : ISO-8859-5 Russian confidence = 0.007454260697370648
+DEBUG : 2023-09-05 01:32:19,720 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:19,720 : IBM866 Russian confidence = 0.09612473531512741
+DEBUG : 2023-09-05 01:32:19,720 : IBM855 Russian confidence = 0.11086107786444051
+DEBUG : 2023-09-05 01:32:19,720 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,720 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,720 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,720 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,720 : TIS-620 not active
+DEBUG : 2023-09-05 01:32:19,720 : ISO-8859-9 Turkish confidence = 0.4531347436373476
+DEBUG : 2023-09-05 01:32:19,720 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,720 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,720 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,720 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,720 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,720 : ISO-8859-5 Russian confidence = 0.007454260697370648
+DEBUG : 2023-09-05 01:32:19,720 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:19,720 : IBM866 Russian confidence = 0.09612473531512741
+DEBUG : 2023-09-05 01:32:19,720 : IBM855 Russian confidence = 0.11086107786444051
+DEBUG : 2023-09-05 01:32:19,720 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,720 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,720 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,720 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,720 : TIS-620 not active
+DEBUG : 2023-09-05 01:32:19,720 : ISO-8859-9 Turkish confidence = 0.4531347436373476
+DEBUG : 2023-09-05 01:32:19,720 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,720 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,720 : windows-1255 Hebrew confidence = 0.0
+INFO : 2023-09-05 01:32:19,747 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:19,747 : Search Name:shirogane-noel
+INFO : 2023-09-05 01:32:19,747 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:19,751 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:19,783 : https://hololive.hololivepro.com:443 "GET /talents/shirogane-noel HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:19,808 : SHIFT_JIS Japanese prober hit error at byte 743
+DEBUG : 2023-09-05 01:32:19,809 : EUC-JP Japanese prober hit error at byte 658
+DEBUG : 2023-09-05 01:32:19,809 : GB2312 Chinese prober hit error at byte 866
+DEBUG : 2023-09-05 01:32:19,810 : EUC-KR Korean prober hit error at byte 658
+DEBUG : 2023-09-05 01:32:19,810 : CP949 Korean prober hit error at byte 658
+DEBUG : 2023-09-05 01:32:19,811 : Big5 Chinese prober hit error at byte 659
+DEBUG : 2023-09-05 01:32:19,811 : EUC-TW Taiwan prober hit error at byte 658
+DEBUG : 2023-09-05 01:32:19,837 : MacCyrillic confidence = 0.0033008084003633338, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:19,883 : TIS-620 confidence = 0.024494597377061608, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:19,936 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,937 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,937 : ISO-8859-5 Russian confidence = 0.003933318434205687
+DEBUG : 2023-09-05 01:32:19,937 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:19,937 : IBM866 Russian confidence = 0.08805493771041195
+DEBUG : 2023-09-05 01:32:19,937 : IBM855 Russian confidence = 0.11001318214180561
+DEBUG : 2023-09-05 01:32:19,937 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,937 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,937 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,937 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,937 : TIS-620 not active
+DEBUG : 2023-09-05 01:32:19,937 : ISO-8859-9 Turkish confidence = 0.4460267043395114
+DEBUG : 2023-09-05 01:32:19,937 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,937 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,937 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,937 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,937 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:19,937 : ISO-8859-5 Russian confidence = 0.003933318434205687
+DEBUG : 2023-09-05 01:32:19,937 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:19,937 : IBM866 Russian confidence = 0.08805493771041195
+DEBUG : 2023-09-05 01:32:19,937 : IBM855 Russian confidence = 0.11001318214180561
+DEBUG : 2023-09-05 01:32:19,937 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,937 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,937 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,937 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,937 : TIS-620 not active
+DEBUG : 2023-09-05 01:32:19,937 : ISO-8859-9 Turkish confidence = 0.4460267043395114
+DEBUG : 2023-09-05 01:32:19,937 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,937 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:19,937 : windows-1255 Hebrew confidence = 0.0
+INFO : 2023-09-05 01:32:19,951 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:19,951 : Search Name:houshou-marine
+INFO : 2023-09-05 01:32:19,951 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:19,952 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:19,983 : https://hololive.hololivepro.com:443 "GET /talents/houshou-marine HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:20,065 : ISO-8859-5 confidence = 0.003960833522347364, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:20,074 : MacCyrillic confidence = 0.002805732729665417, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:20,111 : ISO-8859-5 confidence = 0.0, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:20,126 : TIS-620 confidence = 0.026991442458218055, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:20,187 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:20,187 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:20,187 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:20,187 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:20,187 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:20,187 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:20,187 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:20,187 : EUC-TW Taiwan confidence = 0.01
+DEBUG : 2023-09-05 01:32:20,187 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:20,187 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:20,187 : ISO-8859-5 not active
+DEBUG : 2023-09-05 01:32:20,187 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:20,187 : IBM866 Russian confidence = 0.08974340283472268
+DEBUG : 2023-09-05 01:32:20,187 : IBM855 Russian confidence = 0.09916480670673386
+DEBUG : 2023-09-05 01:32:20,187 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:20,187 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:20,187 : ISO-8859-5 not active
+DEBUG : 2023-09-05 01:32:20,187 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:20,187 : TIS-620 not active
+DEBUG : 2023-09-05 01:32:20,187 : ISO-8859-9 Turkish confidence = 0.43483484557167457
+DEBUG : 2023-09-05 01:32:20,187 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:20,187 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:20,187 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:20,187 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:20,187 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:20,187 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:20,187 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:20,187 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:20,187 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:20,187 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:20,188 : EUC-TW Taiwan confidence = 0.01
+INFO : 2023-09-05 01:32:20,203 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:20,203 : Search Name:amane-kanata
+INFO : 2023-09-05 01:32:20,203 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:20,204 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:20,242 : https://hololive.hololivepro.com:443 "GET /talents/amane-kanata HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:20,318 : MacCyrillic confidence = 0.002273640336760142, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:20,358 : TIS-620 confidence = 0.021739209037043777, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:20,408 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:20,408 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:20,408 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:20,408 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:20,408 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:20,408 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:20,408 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:20,408 : EUC-TW Taiwan confidence = 0.01
+DEBUG : 2023-09-05 01:32:20,408 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:20,408 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:20,408 : ISO-8859-5 Russian confidence = 0.00459105854114048
+DEBUG : 2023-09-05 01:32:20,408 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:20,408 : IBM866 Russian confidence = 0.09180706027122187
+DEBUG : 2023-09-05 01:32:20,408 : IBM855 Russian confidence = 0.07948243425098014
+DEBUG : 2023-09-05 01:32:20,408 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:20,408 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:20,408 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:20,408 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:20,408 : TIS-620 not active
+DEBUG : 2023-09-05 01:32:20,408 : ISO-8859-9 Turkish confidence = 0.46714552170183515
+DEBUG : 2023-09-05 01:32:20,408 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:20,408 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:20,408 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:20,408 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:20,408 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:20,408 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:20,408 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:20,408 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:20,408 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:20,408 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:20,408 : EUC-TW Taiwan confidence = 0.01
+INFO : 2023-09-05 01:32:20,421 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:20,421 : Search Name:tsunomaki-watame
+INFO : 2023-09-05 01:32:20,421 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:20,423 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:20,454 : https://hololive.hololivepro.com:443 "GET /talents/tsunomaki-watame HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:20,495 : SHIFT_JIS Japanese prober hit error at byte 745
+DEBUG : 2023-09-05 01:32:20,496 : EUC-JP Japanese prober hit error at byte 660
+DEBUG : 2023-09-05 01:32:20,497 : GB2312 Chinese prober hit error at byte 868
+DEBUG : 2023-09-05 01:32:20,497 : EUC-KR Korean prober hit error at byte 660
+DEBUG : 2023-09-05 01:32:20,498 : CP949 Korean prober hit error at byte 660
+DEBUG : 2023-09-05 01:32:20,498 : Big5 Chinese prober hit error at byte 661
+DEBUG : 2023-09-05 01:32:20,498 : EUC-TW Taiwan prober hit error at byte 660
+DEBUG : 2023-09-05 01:32:20,525 : MacCyrillic confidence = 0.008024091962201517, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:20,558 : ISO-8859-5 confidence = 0.0, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:20,570 : TIS-620 confidence = 0.03443060999347693, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:20,624 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:20,624 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:20,624 : ISO-8859-5 Russian confidence = 0.005436165229875281
+DEBUG : 2023-09-05 01:32:20,624 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:20,624 : IBM866 Russian confidence = 0.08495038040463368
+DEBUG : 2023-09-05 01:32:20,624 : IBM855 Russian confidence = 0.1035181922232202
+DEBUG : 2023-09-05 01:32:20,624 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:20,624 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:20,624 : ISO-8859-5 not active
+DEBUG : 2023-09-05 01:32:20,624 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:20,624 : TIS-620 not active
+DEBUG : 2023-09-05 01:32:20,624 : ISO-8859-9 Turkish confidence = 0.4445076794023056
+DEBUG : 2023-09-05 01:32:20,624 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:20,624 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:20,624 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:20,624 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:20,624 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:20,624 : ISO-8859-5 Russian confidence = 0.005436165229875281
+DEBUG : 2023-09-05 01:32:20,624 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:20,624 : IBM866 Russian confidence = 0.08495038040463368
+DEBUG : 2023-09-05 01:32:20,624 : IBM855 Russian confidence = 0.1035181922232202
+DEBUG : 2023-09-05 01:32:20,624 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:20,624 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:20,624 : ISO-8859-5 not active
+DEBUG : 2023-09-05 01:32:20,624 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:20,624 : TIS-620 not active
+DEBUG : 2023-09-05 01:32:20,624 : ISO-8859-9 Turkish confidence = 0.4445076794023056
+DEBUG : 2023-09-05 01:32:20,624 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:20,624 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:20,624 : windows-1255 Hebrew confidence = 0.0
+INFO : 2023-09-05 01:32:20,639 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:20,639 : Search Name:tokoyami-towa
+INFO : 2023-09-05 01:32:20,639 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:20,641 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:20,673 : https://hololive.hololivepro.com:443 "GET /talents/tokoyami-towa HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:20,698 : SHIFT_JIS Japanese prober hit error at byte 742
+DEBUG : 2023-09-05 01:32:20,699 : EUC-JP Japanese prober hit error at byte 657
+DEBUG : 2023-09-05 01:32:20,699 : GB2312 Chinese prober hit error at byte 862
+DEBUG : 2023-09-05 01:32:20,700 : EUC-KR Korean prober hit error at byte 657
+DEBUG : 2023-09-05 01:32:20,700 : CP949 Korean prober hit error at byte 657
+DEBUG : 2023-09-05 01:32:20,701 : Big5 Chinese prober hit error at byte 658
+DEBUG : 2023-09-05 01:32:20,701 : EUC-TW Taiwan prober hit error at byte 657
+DEBUG : 2023-09-05 01:32:20,726 : MacCyrillic confidence = 0.002311059305188254, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:20,768 : TIS-620 confidence = 0.019629072030869315, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:20,823 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:20,823 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:20,823 : ISO-8859-5 Russian confidence = 0.006793778544906074
+DEBUG : 2023-09-05 01:32:20,823 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:20,823 : IBM866 Russian confidence = 0.08942767987613748
+DEBUG : 2023-09-05 01:32:20,823 : IBM855 Russian confidence = 0.09290715204325264
+DEBUG : 2023-09-05 01:32:20,823 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:20,823 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:20,823 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:20,823 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:20,823 : TIS-620 not active
+DEBUG : 2023-09-05 01:32:20,823 : ISO-8859-9 Turkish confidence = 0.452448881335192
+DEBUG : 2023-09-05 01:32:20,823 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:20,823 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:20,823 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:20,823 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:20,823 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:20,823 : ISO-8859-5 Russian confidence = 0.006793778544906074
+DEBUG : 2023-09-05 01:32:20,823 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:20,823 : IBM866 Russian confidence = 0.08942767987613748
+DEBUG : 2023-09-05 01:32:20,823 : IBM855 Russian confidence = 0.09290715204325264
+DEBUG : 2023-09-05 01:32:20,823 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:20,823 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:20,823 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:20,823 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:20,823 : TIS-620 not active
+DEBUG : 2023-09-05 01:32:20,823 : ISO-8859-9 Turkish confidence = 0.452448881335192
+DEBUG : 2023-09-05 01:32:20,823 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:20,823 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:20,823 : windows-1255 Hebrew confidence = 0.0
+INFO : 2023-09-05 01:32:20,837 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:20,837 : Search Name:himemori-luna
+INFO : 2023-09-05 01:32:20,837 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:20,852 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:20,887 : https://hololive.hololivepro.com:443 "GET /talents/himemori-luna HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:20,912 : SHIFT_JIS Japanese prober hit error at byte 742
+DEBUG : 2023-09-05 01:32:20,913 : EUC-JP Japanese prober hit error at byte 657
+DEBUG : 2023-09-05 01:32:20,914 : GB2312 Chinese prober hit error at byte 865
+DEBUG : 2023-09-05 01:32:20,914 : EUC-KR Korean prober hit error at byte 657
+DEBUG : 2023-09-05 01:32:20,915 : CP949 Korean prober hit error at byte 657
+DEBUG : 2023-09-05 01:32:20,915 : Big5 Chinese prober hit error at byte 658
+DEBUG : 2023-09-05 01:32:20,916 : EUC-TW Taiwan prober hit error at byte 657
+DEBUG : 2023-09-05 01:32:20,939 : MacCyrillic confidence = 0.0033629372774258703, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:20,979 : TIS-620 confidence = 0.020701733941639194, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:21,026 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,026 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,026 : ISO-8859-5 Russian confidence = 0.005109452000887245
+DEBUG : 2023-09-05 01:32:21,026 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:21,026 : IBM866 Russian confidence = 0.11010687595660218
+DEBUG : 2023-09-05 01:32:21,026 : IBM855 Russian confidence = 0.09487449186951244
+DEBUG : 2023-09-05 01:32:21,026 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:21,026 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:21,026 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:21,026 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:21,026 : TIS-620 not active
+DEBUG : 2023-09-05 01:32:21,026 : ISO-8859-9 Turkish confidence = 0.44248420321341964
+DEBUG : 2023-09-05 01:32:21,026 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:21,026 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:21,026 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:21,026 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,026 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,026 : ISO-8859-5 Russian confidence = 0.005109452000887245
+DEBUG : 2023-09-05 01:32:21,026 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:21,026 : IBM866 Russian confidence = 0.11010687595660218
+DEBUG : 2023-09-05 01:32:21,026 : IBM855 Russian confidence = 0.09487449186951244
+DEBUG : 2023-09-05 01:32:21,026 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:21,026 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:21,026 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:21,026 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:21,026 : TIS-620 not active
+DEBUG : 2023-09-05 01:32:21,026 : ISO-8859-9 Turkish confidence = 0.44248420321341964
+DEBUG : 2023-09-05 01:32:21,026 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:21,026 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:21,026 : windows-1255 Hebrew confidence = 0.0
+INFO : 2023-09-05 01:32:21,039 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:21,039 : Search Name:yukihana-lamy
+INFO : 2023-09-05 01:32:21,039 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:21,041 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:21,075 : https://hololive.hololivepro.com:443 "GET /talents/yukihana-lamy HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:21,147 : MacCyrillic confidence = 0.003167844910493878, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:21,186 : TIS-620 confidence = 0.03789417133063406, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:21,234 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:21,234 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,234 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,235 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,235 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,235 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,235 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,235 : EUC-TW Taiwan confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,235 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,235 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,235 : ISO-8859-5 Russian confidence = 0.008486880494242323
+DEBUG : 2023-09-05 01:32:21,235 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:21,235 : IBM866 Russian confidence = 0.09211926591864578
+DEBUG : 2023-09-05 01:32:21,235 : IBM855 Russian confidence = 0.10437598604508769
+DEBUG : 2023-09-05 01:32:21,235 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:21,235 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:21,235 : ISO-8859-5 Bulgairan confidence = 0.0004743318084664448
+DEBUG : 2023-09-05 01:32:21,235 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:21,235 : TIS-620 not active
+DEBUG : 2023-09-05 01:32:21,235 : ISO-8859-9 Turkish confidence = 0.45078747691521287
+DEBUG : 2023-09-05 01:32:21,235 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:21,235 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:21,235 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:21,235 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:21,235 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,235 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,235 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,235 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,235 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,235 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,235 : EUC-TW Taiwan confidence = 0.01
+INFO : 2023-09-05 01:32:21,248 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:21,248 : Search Name:momosuzu-nene
+INFO : 2023-09-05 01:32:21,248 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:21,249 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:21,279 : https://hololive.hololivepro.com:443 "GET /talents/momosuzu-nene HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:21,303 : SHIFT_JIS Japanese prober hit error at byte 742
+DEBUG : 2023-09-05 01:32:21,304 : EUC-JP Japanese prober hit error at byte 657
+DEBUG : 2023-09-05 01:32:21,305 : GB2312 Chinese prober hit error at byte 862
+DEBUG : 2023-09-05 01:32:21,305 : EUC-KR Korean prober hit error at byte 657
+DEBUG : 2023-09-05 01:32:21,306 : CP949 Korean prober hit error at byte 657
+DEBUG : 2023-09-05 01:32:21,306 : Big5 Chinese prober hit error at byte 658
+DEBUG : 2023-09-05 01:32:21,307 : EUC-TW Taiwan prober hit error at byte 657
+DEBUG : 2023-09-05 01:32:21,330 : MacCyrillic confidence = 0.0014585992083536892, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:21,370 : TIS-620 confidence = 0.019263711659458192, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:21,418 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,418 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,418 : ISO-8859-5 Russian confidence = 0.005833264771248909
+DEBUG : 2023-09-05 01:32:21,418 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:21,418 : IBM866 Russian confidence = 0.09358575660331606
+DEBUG : 2023-09-05 01:32:21,418 : IBM855 Russian confidence = 0.09622813545026408
+DEBUG : 2023-09-05 01:32:21,418 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:21,418 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:21,418 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:21,418 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:21,418 : TIS-620 not active
+DEBUG : 2023-09-05 01:32:21,418 : ISO-8859-9 Turkish confidence = 0.4588025511101404
+DEBUG : 2023-09-05 01:32:21,418 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:21,418 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:21,418 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:21,418 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,418 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,418 : ISO-8859-5 Russian confidence = 0.005833264771248909
+DEBUG : 2023-09-05 01:32:21,418 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:21,418 : IBM866 Russian confidence = 0.09358575660331606
+DEBUG : 2023-09-05 01:32:21,418 : IBM855 Russian confidence = 0.09622813545026408
+DEBUG : 2023-09-05 01:32:21,418 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:21,418 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:21,419 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:21,419 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:21,419 : TIS-620 not active
+DEBUG : 2023-09-05 01:32:21,419 : ISO-8859-9 Turkish confidence = 0.4588025511101404
+DEBUG : 2023-09-05 01:32:21,419 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:21,419 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:21,419 : windows-1255 Hebrew confidence = 0.0
+INFO : 2023-09-05 01:32:21,432 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:21,432 : Search Name:shishiro-botan
+INFO : 2023-09-05 01:32:21,432 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:21,433 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:21,469 : https://hololive.hololivepro.com:443 "GET /talents/shishiro-botan HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:21,541 : MacCyrillic confidence = 0.0027275282994741797, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:21,583 : TIS-620 confidence = 0.02429533744983186, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:21,632 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:21,632 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,632 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,632 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,632 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,632 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,632 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,632 : EUC-TW Taiwan confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,632 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,632 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,632 : ISO-8859-5 Russian confidence = 0.02330921145060757
+DEBUG : 2023-09-05 01:32:21,632 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:21,632 : IBM866 Russian confidence = 0.08556468318438254
+DEBUG : 2023-09-05 01:32:21,632 : IBM855 Russian confidence = 0.11408162655315772
+DEBUG : 2023-09-05 01:32:21,632 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:21,632 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:21,632 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:21,632 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:21,632 : TIS-620 not active
+DEBUG : 2023-09-05 01:32:21,632 : ISO-8859-9 Turkish confidence = 0.4411056092432626
+DEBUG : 2023-09-05 01:32:21,632 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:21,632 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:21,632 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:21,632 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:21,632 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,632 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,632 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,632 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,632 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,633 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,633 : EUC-TW Taiwan confidence = 0.01
+INFO : 2023-09-05 01:32:21,646 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:21,646 : Search Name:omaru-polka
+INFO : 2023-09-05 01:32:21,646 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:21,647 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:21,678 : https://hololive.hololivepro.com:443 "GET /talents/omaru-polka HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:21,749 : MacCyrillic confidence = 0.0014868806905760383, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:21,785 : TIS-620 confidence = 0.022453347428264863, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:21,833 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:21,833 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,833 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,833 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,833 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,833 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,833 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,833 : EUC-TW Taiwan confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,833 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,833 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,833 : ISO-8859-5 Russian confidence = 0.01160806869152036
+DEBUG : 2023-09-05 01:32:21,833 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:21,833 : IBM866 Russian confidence = 0.09694385144888283
+DEBUG : 2023-09-05 01:32:21,833 : IBM855 Russian confidence = 0.09602757702671771
+DEBUG : 2023-09-05 01:32:21,833 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:21,833 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:21,833 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:21,833 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:21,833 : TIS-620 not active
+DEBUG : 2023-09-05 01:32:21,833 : ISO-8859-9 Turkish confidence = 0.4668212821067685
+DEBUG : 2023-09-05 01:32:21,833 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:21,833 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:21,833 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:21,833 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:21,833 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,833 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,833 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,833 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,833 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,833 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:21,833 : EUC-TW Taiwan confidence = 0.01
+INFO : 2023-09-05 01:32:21,845 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:21,845 : Search Name:la-darknesss
+INFO : 2023-09-05 01:32:21,845 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:21,847 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:21,880 : https://hololive.hololivepro.com:443 "GET /talents/la-darknesss HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:21,940 : MacCyrillic confidence = 0.002609263156130267, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:22,013 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:22,013 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:22,013 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:22,013 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:22,013 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:22,013 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:22,013 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:22,013 : EUC-TW Taiwan confidence = 0.01
+DEBUG : 2023-09-05 01:32:22,013 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:22,013 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:22,013 : ISO-8859-5 Russian confidence = 0.0013860184513068761
+DEBUG : 2023-09-05 01:32:22,013 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:22,013 : IBM866 Russian confidence = 0.08834217375898022
+DEBUG : 2023-09-05 01:32:22,013 : IBM855 Russian confidence = 0.11984976881266421
+DEBUG : 2023-09-05 01:32:22,013 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,013 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,013 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,013 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,013 : TIS-620 Thai confidence = 0.025569444894153956
+DEBUG : 2023-09-05 01:32:22,013 : ISO-8859-9 Turkish confidence = 0.4669071998258188
+DEBUG : 2023-09-05 01:32:22,013 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,013 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,013 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,013 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:22,013 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:22,013 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:22,013 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:22,014 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:22,014 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:22,014 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:22,014 : EUC-TW Taiwan confidence = 0.01
+INFO : 2023-09-05 01:32:22,024 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:22,024 : Search Name:takane-lui
+INFO : 2023-09-05 01:32:22,024 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:22,025 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:22,055 : https://hololive.hololivepro.com:443 "GET /talents/takane-lui HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:22,077 : SHIFT_JIS Japanese prober hit error at byte 739
+DEBUG : 2023-09-05 01:32:22,078 : EUC-JP Japanese prober hit error at byte 654
+DEBUG : 2023-09-05 01:32:22,079 : GB2312 Chinese prober hit error at byte 859
+DEBUG : 2023-09-05 01:32:22,079 : EUC-KR Korean prober hit error at byte 654
+DEBUG : 2023-09-05 01:32:22,079 : CP949 Korean prober hit error at byte 654
+DEBUG : 2023-09-05 01:32:22,080 : Big5 Chinese prober hit error at byte 655
+DEBUG : 2023-09-05 01:32:22,080 : EUC-TW Taiwan prober hit error at byte 654
+DEBUG : 2023-09-05 01:32:22,103 : MacCyrillic confidence = 0.0027885757015783273, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:22,140 : TIS-620 confidence = 0.02512620609830088, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:22,187 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:22,187 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:22,187 : ISO-8859-5 Russian confidence = 0.0035798845835785893
+DEBUG : 2023-09-05 01:32:22,187 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:22,187 : IBM866 Russian confidence = 0.09132966462114152
+DEBUG : 2023-09-05 01:32:22,187 : IBM855 Russian confidence = 0.1090272373915764
+DEBUG : 2023-09-05 01:32:22,187 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,187 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,187 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,187 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,187 : TIS-620 not active
+DEBUG : 2023-09-05 01:32:22,187 : ISO-8859-9 Turkish confidence = 0.4554716600379456
+DEBUG : 2023-09-05 01:32:22,187 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,187 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,187 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,187 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:22,187 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:22,187 : ISO-8859-5 Russian confidence = 0.0035798845835785893
+DEBUG : 2023-09-05 01:32:22,187 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:22,187 : IBM866 Russian confidence = 0.09132966462114152
+DEBUG : 2023-09-05 01:32:22,187 : IBM855 Russian confidence = 0.1090272373915764
+DEBUG : 2023-09-05 01:32:22,187 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,187 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,187 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,187 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,187 : TIS-620 not active
+DEBUG : 2023-09-05 01:32:22,187 : ISO-8859-9 Turkish confidence = 0.4554716600379456
+DEBUG : 2023-09-05 01:32:22,187 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,187 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,187 : windows-1255 Hebrew confidence = 0.0
+INFO : 2023-09-05 01:32:22,200 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:22,200 : Search Name:hakui-koyori
+INFO : 2023-09-05 01:32:22,200 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:22,201 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:22,233 : https://hololive.hololivepro.com:443 "GET /talents/hakui-koyori HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:22,254 : SHIFT_JIS Japanese prober hit error at byte 741
+DEBUG : 2023-09-05 01:32:22,255 : EUC-JP Japanese prober hit error at byte 656
+DEBUG : 2023-09-05 01:32:22,255 : GB2312 Chinese prober hit error at byte 864
+DEBUG : 2023-09-05 01:32:22,256 : EUC-KR Korean prober hit error at byte 656
+DEBUG : 2023-09-05 01:32:22,256 : CP949 Korean prober hit error at byte 656
+DEBUG : 2023-09-05 01:32:22,257 : Big5 Chinese prober hit error at byte 657
+DEBUG : 2023-09-05 01:32:22,257 : EUC-TW Taiwan prober hit error at byte 656
+DEBUG : 2023-09-05 01:32:22,278 : MacCyrillic confidence = 0.002289714090860553, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:22,315 : TIS-620 confidence = 0.02689671912988685, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:22,359 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:22,359 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:22,359 : ISO-8859-5 Russian confidence = 0.006790726807432883
+DEBUG : 2023-09-05 01:32:22,359 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:22,359 : IBM866 Russian confidence = 0.08998848479294386
+DEBUG : 2023-09-05 01:32:22,359 : IBM855 Russian confidence = 0.0990436405282986
+DEBUG : 2023-09-05 01:32:22,359 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,359 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,360 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,360 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,360 : TIS-620 not active
+DEBUG : 2023-09-05 01:32:22,360 : ISO-8859-9 Turkish confidence = 0.4511290792571705
+DEBUG : 2023-09-05 01:32:22,360 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,360 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,360 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,360 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:22,360 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:22,360 : ISO-8859-5 Russian confidence = 0.006790726807432883
+DEBUG : 2023-09-05 01:32:22,360 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:22,360 : IBM866 Russian confidence = 0.08998848479294386
+DEBUG : 2023-09-05 01:32:22,360 : IBM855 Russian confidence = 0.0990436405282986
+DEBUG : 2023-09-05 01:32:22,360 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,360 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,360 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,360 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,360 : TIS-620 not active
+DEBUG : 2023-09-05 01:32:22,360 : ISO-8859-9 Turkish confidence = 0.4511290792571705
+DEBUG : 2023-09-05 01:32:22,360 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,360 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,360 : windows-1255 Hebrew confidence = 0.0
+INFO : 2023-09-05 01:32:22,373 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:22,373 : Search Name:sakamata-chloe
+INFO : 2023-09-05 01:32:22,373 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:22,374 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:22,408 : https://hololive.hololivepro.com:443 "GET /talents/sakamata-chloe HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:22,439 : SHIFT_JIS Japanese prober hit error at byte 743
+DEBUG : 2023-09-05 01:32:22,439 : EUC-JP Japanese prober hit error at byte 658
+DEBUG : 2023-09-05 01:32:22,440 : GB2312 Chinese prober hit error at byte 869
+DEBUG : 2023-09-05 01:32:22,440 : EUC-KR Korean prober hit error at byte 658
+DEBUG : 2023-09-05 01:32:22,441 : CP949 Korean prober hit error at byte 658
+DEBUG : 2023-09-05 01:32:22,441 : Big5 Chinese prober hit error at byte 659
+DEBUG : 2023-09-05 01:32:22,442 : EUC-TW Taiwan prober hit error at byte 658
+DEBUG : 2023-09-05 01:32:22,487 : MacCyrillic confidence = 0.0018617851942227283, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:22,524 : TIS-620 confidence = 0.027824661655642083, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:22,568 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:22,568 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:22,568 : ISO-8859-5 Russian confidence = 0.007694364203525658
+DEBUG : 2023-09-05 01:32:22,568 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:22,568 : IBM866 Russian confidence = 0.0926210303015285
+DEBUG : 2023-09-05 01:32:22,568 : IBM855 Russian confidence = 0.10548033608714055
+DEBUG : 2023-09-05 01:32:22,568 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,568 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,568 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,569 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,569 : TIS-620 not active
+DEBUG : 2023-09-05 01:32:22,569 : ISO-8859-9 Turkish confidence = 0.45677510475036054
+DEBUG : 2023-09-05 01:32:22,569 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,569 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,569 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,569 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:22,569 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:22,569 : ISO-8859-5 Russian confidence = 0.007694364203525658
+DEBUG : 2023-09-05 01:32:22,569 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:22,569 : IBM866 Russian confidence = 0.0926210303015285
+DEBUG : 2023-09-05 01:32:22,569 : IBM855 Russian confidence = 0.10548033608714055
+DEBUG : 2023-09-05 01:32:22,569 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,569 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,569 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,569 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,569 : TIS-620 not active
+DEBUG : 2023-09-05 01:32:22,569 : ISO-8859-9 Turkish confidence = 0.45677510475036054
+DEBUG : 2023-09-05 01:32:22,569 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,569 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,569 : windows-1255 Hebrew confidence = 0.0
+INFO : 2023-09-05 01:32:22,581 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:22,581 : Search Name:kazama-iroha
+INFO : 2023-09-05 01:32:22,581 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:22,582 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:22,616 : https://hololive.hololivepro.com:443 "GET /talents/kazama-iroha HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:22,637 : SHIFT_JIS Japanese prober hit error at byte 741
+DEBUG : 2023-09-05 01:32:22,638 : EUC-JP Japanese prober hit error at byte 656
+DEBUG : 2023-09-05 01:32:22,638 : GB2312 Chinese prober hit error at byte 864
+DEBUG : 2023-09-05 01:32:22,639 : EUC-KR Korean prober hit error at byte 656
+DEBUG : 2023-09-05 01:32:22,639 : CP949 Korean prober hit error at byte 656
+DEBUG : 2023-09-05 01:32:22,640 : Big5 Chinese prober hit error at byte 657
+DEBUG : 2023-09-05 01:32:22,640 : EUC-TW Taiwan prober hit error at byte 656
+DEBUG : 2023-09-05 01:32:22,661 : MacCyrillic confidence = 0.0033833861568036898, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:22,737 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:22,737 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:22,737 : ISO-8859-5 Russian confidence = 0.002113395844239437
+DEBUG : 2023-09-05 01:32:22,737 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:22,737 : IBM866 Russian confidence = 0.0971370616664009
+DEBUG : 2023-09-05 01:32:22,737 : IBM855 Russian confidence = 0.11482634065614575
+DEBUG : 2023-09-05 01:32:22,737 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,737 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,737 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,737 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,737 : TIS-620 Thai confidence = 0.020279882764808996
+DEBUG : 2023-09-05 01:32:22,737 : ISO-8859-9 Turkish confidence = 0.4629067606278099
+DEBUG : 2023-09-05 01:32:22,737 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,737 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,737 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,737 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:22,737 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:22,737 : ISO-8859-5 Russian confidence = 0.002113395844239437
+DEBUG : 2023-09-05 01:32:22,737 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:22,737 : IBM866 Russian confidence = 0.0971370616664009
+DEBUG : 2023-09-05 01:32:22,737 : IBM855 Russian confidence = 0.11482634065614575
+DEBUG : 2023-09-05 01:32:22,737 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,737 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,737 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,737 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,737 : TIS-620 Thai confidence = 0.020279882764808996
+DEBUG : 2023-09-05 01:32:22,737 : ISO-8859-9 Turkish confidence = 0.4629067606278099
+DEBUG : 2023-09-05 01:32:22,737 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,737 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,737 : windows-1255 Hebrew confidence = 0.0
+INFO : 2023-09-05 01:32:22,763 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:22,763 : Search Name:ayunda-risu
+INFO : 2023-09-05 01:32:22,763 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:22,764 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:22,795 : https://hololive.hololivepro.com:443 "GET /talents/ayunda-risu HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:22,853 : MacCyrillic confidence = 0.002390814930808794, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:22,923 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:22,923 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:22,923 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:22,923 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:22,923 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:22,923 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:22,923 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:22,923 : EUC-TW Taiwan confidence = 0.01
+DEBUG : 2023-09-05 01:32:22,923 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:22,923 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:22,923 : ISO-8859-5 Russian confidence = 0.005054814764313655
+DEBUG : 2023-09-05 01:32:22,923 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:22,923 : IBM866 Russian confidence = 0.10474651947368438
+DEBUG : 2023-09-05 01:32:22,923 : IBM855 Russian confidence = 0.1201882732180346
+DEBUG : 2023-09-05 01:32:22,924 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,924 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,924 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,924 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,924 : TIS-620 Thai confidence = 0.024255516638188267
+DEBUG : 2023-09-05 01:32:22,924 : ISO-8859-9 Turkish confidence = 0.4790886575926096
+DEBUG : 2023-09-05 01:32:22,924 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,924 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,924 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:22,924 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:22,924 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:22,924 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:22,924 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:22,924 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:22,924 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:22,924 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:22,924 : EUC-TW Taiwan confidence = 0.01
+INFO : 2023-09-05 01:32:22,933 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:22,933 : Search Name:moona-hoshinova
+INFO : 2023-09-05 01:32:22,933 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:22,935 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:22,968 : https://hololive.hololivepro.com:443 "GET /talents/moona-hoshinova HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:23,028 : MacCyrillic confidence = 0.0018906359448794348, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:23,100 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:23,100 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,100 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,100 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,100 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,100 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,100 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,100 : EUC-TW Taiwan confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,100 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,100 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,100 : ISO-8859-5 Russian confidence = 0.006189449123508813
+DEBUG : 2023-09-05 01:32:23,100 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:23,100 : IBM866 Russian confidence = 0.0988239686858146
+DEBUG : 2023-09-05 01:32:23,100 : IBM855 Russian confidence = 0.12063750144992451
+DEBUG : 2023-09-05 01:32:23,100 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:23,100 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:23,100 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:23,100 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:23,100 : TIS-620 Thai confidence = 0.018819422253210257
+DEBUG : 2023-09-05 01:32:23,100 : ISO-8859-9 Turkish confidence = 0.4607999072140539
+DEBUG : 2023-09-05 01:32:23,100 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:23,100 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:23,100 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:23,100 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:23,100 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,100 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,101 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,101 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,101 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,101 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,101 : EUC-TW Taiwan confidence = 0.01
+INFO : 2023-09-05 01:32:23,110 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:23,110 : Search Name:airani-iofifteen
+INFO : 2023-09-05 01:32:23,110 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:23,112 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:23,144 : https://hololive.hololivepro.com:443 "GET /talents/airani-iofifteen HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:23,201 : MacCyrillic confidence = 0.004060404343082581, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:23,267 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:23,267 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,267 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,267 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,267 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,267 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,267 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,267 : EUC-TW Taiwan confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,267 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,267 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,267 : ISO-8859-5 Russian confidence = 0.01063021394319985
+DEBUG : 2023-09-05 01:32:23,267 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:23,267 : IBM866 Russian confidence = 0.10961325825848796
+DEBUG : 2023-09-05 01:32:23,267 : IBM855 Russian confidence = 0.11001039745365493
+DEBUG : 2023-09-05 01:32:23,268 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:23,268 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:23,268 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:23,268 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:23,268 : TIS-620 Thai confidence = 0.023012516311215803
+DEBUG : 2023-09-05 01:32:23,268 : ISO-8859-9 Turkish confidence = 0.4630198260462527
+DEBUG : 2023-09-05 01:32:23,268 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:23,268 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:23,268 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:23,268 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:23,268 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,268 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,268 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,268 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,268 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,268 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,268 : EUC-TW Taiwan confidence = 0.01
+INFO : 2023-09-05 01:32:23,277 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:23,277 : Search Name:kureiji-ollie
+INFO : 2023-09-05 01:32:23,277 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:23,279 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:23,312 : https://hololive.hololivepro.com:443 "GET /talents/kureiji-ollie HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:23,370 : MacCyrillic confidence = 0.0036903202228252188, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:23,402 : TIS-620 confidence = 0.017468655104518244, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:23,440 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:23,440 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,440 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,440 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,440 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,440 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,440 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,440 : EUC-TW Taiwan confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,440 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,440 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,440 : ISO-8859-5 Russian confidence = 0.010304142220387018
+DEBUG : 2023-09-05 01:32:23,440 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:23,440 : IBM866 Russian confidence = 0.11585410003407275
+DEBUG : 2023-09-05 01:32:23,440 : IBM855 Russian confidence = 0.09889331340281513
+DEBUG : 2023-09-05 01:32:23,440 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:23,440 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:23,440 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:23,440 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:23,440 : TIS-620 not active
+DEBUG : 2023-09-05 01:32:23,440 : ISO-8859-9 Turkish confidence = 0.4524091454163418
+DEBUG : 2023-09-05 01:32:23,440 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:23,440 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:23,440 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:23,440 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:23,440 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,440 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,440 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,440 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,440 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,440 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,440 : EUC-TW Taiwan confidence = 0.01
+INFO : 2023-09-05 01:32:23,450 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:23,450 : Search Name:anya-melfissa
+INFO : 2023-09-05 01:32:23,450 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:23,451 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:23,486 : https://hololive.hololivepro.com:443 "GET /talents/anya-melfissa HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:23,535 : MacCyrillic confidence = 0.003886441297324927, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:23,610 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:23,610 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,610 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,610 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,610 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,610 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,610 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,610 : EUC-TW Taiwan confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,610 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,610 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,610 : ISO-8859-5 Russian confidence = 0.008407087260996204
+DEBUG : 2023-09-05 01:32:23,611 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:23,611 : IBM866 Russian confidence = 0.10206714579825907
+DEBUG : 2023-09-05 01:32:23,611 : IBM855 Russian confidence = 0.10476851107480142
+DEBUG : 2023-09-05 01:32:23,611 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:23,611 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:23,611 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:23,611 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:23,611 : TIS-620 Thai confidence = 0.021770884076821165
+DEBUG : 2023-09-05 01:32:23,611 : ISO-8859-9 Turkish confidence = 0.47066732475923156
+DEBUG : 2023-09-05 01:32:23,611 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:23,611 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:23,611 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:23,611 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:23,611 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,611 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,611 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,611 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,611 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,611 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,611 : EUC-TW Taiwan confidence = 0.01
+INFO : 2023-09-05 01:32:23,621 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:23,621 : Search Name:pavolia-reine
+INFO : 2023-09-05 01:32:23,621 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:23,623 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:23,655 : https://hololive.hololivepro.com:443 "GET /talents/pavolia-reine HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:23,725 : MacCyrillic confidence = 0.002483195141334608, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:23,758 : TIS-620 confidence = 0.021495786120040793, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:23,796 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:23,796 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,796 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,796 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,796 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,796 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,796 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,796 : EUC-TW Taiwan confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,796 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,796 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,796 : ISO-8859-5 Russian confidence = 0.006839702305768145
+DEBUG : 2023-09-05 01:32:23,796 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:23,796 : IBM866 Russian confidence = 0.0991557215177813
+DEBUG : 2023-09-05 01:32:23,796 : IBM855 Russian confidence = 0.10515756967793015
+DEBUG : 2023-09-05 01:32:23,796 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:23,796 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:23,796 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:23,796 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:23,796 : TIS-620 not active
+DEBUG : 2023-09-05 01:32:23,796 : ISO-8859-9 Turkish confidence = 0.44532139225872647
+DEBUG : 2023-09-05 01:32:23,796 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:23,796 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:23,796 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:23,796 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:23,796 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,796 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,796 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,796 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,796 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,796 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,796 : EUC-TW Taiwan confidence = 0.01
+INFO : 2023-09-05 01:32:23,806 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:23,806 : Search Name:vestia-zeta
+INFO : 2023-09-05 01:32:23,806 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:23,808 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:23,839 : https://hololive.hololivepro.com:443 "GET /talents/vestia-zeta HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:23,879 : MacCyrillic confidence = 0.0013024975768828923, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:23,931 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:23,932 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,932 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,932 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,932 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,932 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,932 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,932 : EUC-TW Taiwan confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,932 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,932 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,932 : ISO-8859-5 Russian confidence = 0.002651157866584343
+DEBUG : 2023-09-05 01:32:23,932 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:23,932 : IBM866 Russian confidence = 0.09522168499310527
+DEBUG : 2023-09-05 01:32:23,932 : IBM855 Russian confidence = 0.10694771180876664
+DEBUG : 2023-09-05 01:32:23,932 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:23,932 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:23,932 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:23,932 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:23,932 : TIS-620 Thai confidence = 0.032992322261109375
+DEBUG : 2023-09-05 01:32:23,932 : ISO-8859-9 Turkish confidence = 0.4948301987772654
+DEBUG : 2023-09-05 01:32:23,932 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:23,932 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:23,932 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:23,932 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:23,932 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,932 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,932 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,932 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,932 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,932 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:23,932 : EUC-TW Taiwan confidence = 0.01
+INFO : 2023-09-05 01:32:23,939 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:23,939 : Search Name:kaela-kovalskia
+INFO : 2023-09-05 01:32:23,939 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:23,940 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:23,974 : https://hololive.hololivepro.com:443 "GET /talents/kaela-kovalskia HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:24,015 : MacCyrillic confidence = 0.0014151218406045674, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:24,063 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:24,063 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,063 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,063 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,063 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,063 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,063 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,063 : EUC-TW Taiwan confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,063 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,063 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,063 : ISO-8859-5 Russian confidence = 0.0013971520394540334
+DEBUG : 2023-09-05 01:32:24,063 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:24,063 : IBM866 Russian confidence = 0.09954968627186243
+DEBUG : 2023-09-05 01:32:24,063 : IBM855 Russian confidence = 0.11130509198034237
+DEBUG : 2023-09-05 01:32:24,063 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:24,063 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:24,063 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:24,063 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:24,063 : TIS-620 Thai confidence = 0.02212459616643567
+DEBUG : 2023-09-05 01:32:24,063 : ISO-8859-9 Turkish confidence = 0.4942823257978788
+DEBUG : 2023-09-05 01:32:24,063 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:24,063 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:24,063 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:24,063 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:24,063 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,063 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,063 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,063 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,063 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,063 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,063 : EUC-TW Taiwan confidence = 0.01
+INFO : 2023-09-05 01:32:24,069 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:24,069 : Search Name:kobo-kanaeru
+INFO : 2023-09-05 01:32:24,069 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:24,071 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:24,102 : https://hololive.hololivepro.com:443 "GET /talents/kobo-kanaeru HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:24,150 : MacCyrillic confidence = 0.0030550976078245243, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:24,204 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:24,204 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,204 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,204 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,204 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,204 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,204 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,204 : EUC-TW Taiwan confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,204 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,204 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,204 : ISO-8859-5 Russian confidence = 0.0035310147305095585
+DEBUG : 2023-09-05 01:32:24,204 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:24,204 : IBM866 Russian confidence = 0.09533557516802367
+DEBUG : 2023-09-05 01:32:24,204 : IBM855 Russian confidence = 0.09760702725168519
+DEBUG : 2023-09-05 01:32:24,204 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:24,204 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:24,204 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:24,204 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:24,204 : TIS-620 Thai confidence = 0.016459261408206038
+DEBUG : 2023-09-05 01:32:24,204 : ISO-8859-9 Turkish confidence = 0.48863570529083317
+DEBUG : 2023-09-05 01:32:24,204 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:24,204 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:24,204 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:24,204 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:24,204 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,204 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,204 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,204 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,204 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,204 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,204 : EUC-TW Taiwan confidence = 0.01
+INFO : 2023-09-05 01:32:24,211 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:24,211 : Search Name:mori-calliope
+INFO : 2023-09-05 01:32:24,211 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:24,213 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:24,244 : https://hololive.hololivepro.com:443 "GET /talents/mori-calliope HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:24,316 : MacCyrillic confidence = 0.00462527988322778, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:24,409 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:24,409 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,409 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,409 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,409 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,409 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,409 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,409 : EUC-TW Taiwan confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,409 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,409 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,409 : ISO-8859-5 Russian confidence = 0.007049970918191849
+DEBUG : 2023-09-05 01:32:24,409 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:24,409 : IBM866 Russian confidence = 0.09626826566202308
+DEBUG : 2023-09-05 01:32:24,409 : IBM855 Russian confidence = 0.10119051550716156
+DEBUG : 2023-09-05 01:32:24,409 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:24,409 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:24,409 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:24,409 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:24,409 : TIS-620 Thai confidence = 0.02604161133445347
+DEBUG : 2023-09-05 01:32:24,409 : ISO-8859-9 Turkish confidence = 0.4767582058228429
+DEBUG : 2023-09-05 01:32:24,409 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:24,410 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:24,410 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:24,410 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:24,410 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,410 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,410 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,410 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,410 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,410 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,410 : EUC-TW Taiwan confidence = 0.01
+INFO : 2023-09-05 01:32:24,422 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:24,422 : Search Name:takanashi-kiara
+INFO : 2023-09-05 01:32:24,422 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:24,423 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:24,463 : https://hololive.hololivepro.com:443 "GET /talents/takanashi-kiara HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:24,527 : MacCyrillic confidence = 0.002453858773898239, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:24,605 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:24,605 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,605 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,605 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,605 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,605 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,606 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,606 : EUC-TW Taiwan confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,606 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,606 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,606 : ISO-8859-5 Russian confidence = 0.005321840486621238
+DEBUG : 2023-09-05 01:32:24,606 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:24,606 : IBM866 Russian confidence = 0.09546504406435917
+DEBUG : 2023-09-05 01:32:24,606 : IBM855 Russian confidence = 0.1113433979735007
+DEBUG : 2023-09-05 01:32:24,606 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:24,606 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:24,606 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:24,606 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:24,606 : TIS-620 Thai confidence = 0.02499078341888271
+DEBUG : 2023-09-05 01:32:24,606 : ISO-8859-9 Turkish confidence = 0.49647205845730724
+DEBUG : 2023-09-05 01:32:24,606 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:24,606 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:24,606 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:24,606 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:24,606 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,606 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,606 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,606 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,606 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,606 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,606 : EUC-TW Taiwan confidence = 0.01
+INFO : 2023-09-05 01:32:24,651 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:24,651 : Search Name:ninomae-inanis
+INFO : 2023-09-05 01:32:24,651 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:24,654 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:24,690 : https://hololive.hololivepro.com:443 "GET /talents/ninomae-inanis HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:24,753 : MacCyrillic confidence = 0.003411346674948206, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:24,830 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:24,830 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,830 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,830 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,830 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,830 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,830 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,830 : EUC-TW Taiwan confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,830 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,830 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,830 : ISO-8859-5 Russian confidence = 0.003296780228010843
+DEBUG : 2023-09-05 01:32:24,830 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:24,830 : IBM866 Russian confidence = 0.08842512773819602
+DEBUG : 2023-09-05 01:32:24,830 : IBM855 Russian confidence = 0.1138861804640932
+DEBUG : 2023-09-05 01:32:24,830 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:24,830 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:24,830 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:24,830 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:24,830 : TIS-620 Thai confidence = 0.016316889780538697
+DEBUG : 2023-09-05 01:32:24,830 : ISO-8859-9 Turkish confidence = 0.4760544076213142
+DEBUG : 2023-09-05 01:32:24,830 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:24,830 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:24,830 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:24,830 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:24,830 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,830 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,830 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,830 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,830 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,830 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:24,830 : EUC-TW Taiwan confidence = 0.01
+INFO : 2023-09-05 01:32:24,840 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:24,840 : Search Name:gawr-gura
+INFO : 2023-09-05 01:32:24,840 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:24,841 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:24,873 : https://hololive.hololivepro.com:443 "GET /talents/gawr-gura HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:24,940 : MacCyrillic confidence = 0.0023403875902331646, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:25,020 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:25,020 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,020 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,020 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,020 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,020 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,020 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,020 : EUC-TW Taiwan confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,020 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,020 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,020 : ISO-8859-5 Russian confidence = 0.0035098468088028676
+DEBUG : 2023-09-05 01:32:25,020 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:25,020 : IBM866 Russian confidence = 0.09224428344436134
+DEBUG : 2023-09-05 01:32:25,020 : IBM855 Russian confidence = 0.11871062958419337
+DEBUG : 2023-09-05 01:32:25,020 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,020 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,020 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,020 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,020 : TIS-620 Thai confidence = 0.015303144980283262
+DEBUG : 2023-09-05 01:32:25,020 : ISO-8859-9 Turkish confidence = 0.4714319586720442
+DEBUG : 2023-09-05 01:32:25,020 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,020 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,020 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,020 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:25,020 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,020 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,020 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,020 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,020 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,020 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,020 : EUC-TW Taiwan confidence = 0.01
+INFO : 2023-09-05 01:32:25,031 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:25,031 : Search Name:watson-amelia
+INFO : 2023-09-05 01:32:25,031 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:25,033 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:25,066 : https://hololive.hololivepro.com:443 "GET /talents/watson-amelia HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:25,117 : MacCyrillic confidence = 0.002093988004856809, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:25,179 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:25,179 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,179 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,179 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,179 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,179 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,179 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,179 : EUC-TW Taiwan confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,179 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,179 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,179 : ISO-8859-5 Russian confidence = 0.013517836219640249
+DEBUG : 2023-09-05 01:32:25,179 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:25,179 : IBM866 Russian confidence = 0.09912682049618754
+DEBUG : 2023-09-05 01:32:25,179 : IBM855 Russian confidence = 0.12188128158978347
+DEBUG : 2023-09-05 01:32:25,179 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,179 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,179 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,179 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,179 : TIS-620 Thai confidence = 0.015108704539174497
+DEBUG : 2023-09-05 01:32:25,179 : ISO-8859-9 Turkish confidence = 0.490773144543812
+DEBUG : 2023-09-05 01:32:25,179 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,179 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,179 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,179 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:25,179 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,179 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,179 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,179 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,179 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,179 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,179 : EUC-TW Taiwan confidence = 0.01
+INFO : 2023-09-05 01:32:25,187 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:25,187 : Search Name:irys
+INFO : 2023-09-05 01:32:25,187 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:25,188 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:25,220 : https://hololive.hololivepro.com:443 "GET /talents/irys HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:25,286 : MacCyrillic confidence = 0.002700398753059689, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:25,362 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:25,362 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,362 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,362 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,362 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,362 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,362 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,362 : EUC-TW Taiwan confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,362 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,362 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,362 : ISO-8859-5 Russian confidence = 0.0015350398626853186
+DEBUG : 2023-09-05 01:32:25,362 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:25,362 : IBM866 Russian confidence = 0.09278670261688371
+DEBUG : 2023-09-05 01:32:25,362 : IBM855 Russian confidence = 0.09393733746943998
+DEBUG : 2023-09-05 01:32:25,362 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,362 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,362 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,362 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,362 : TIS-620 Thai confidence = 0.01840771034706216
+DEBUG : 2023-09-05 01:32:25,362 : ISO-8859-9 Turkish confidence = 0.4708734113545059
+DEBUG : 2023-09-05 01:32:25,362 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,362 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,362 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,362 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:25,363 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,363 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,363 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,363 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,363 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,363 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,363 : EUC-TW Taiwan confidence = 0.01
+INFO : 2023-09-05 01:32:25,373 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:25,373 : Search Name:ceres-fauna
+INFO : 2023-09-05 01:32:25,373 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:25,375 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:25,413 : https://hololive.hololivepro.com:443 "GET /talents/ceres-fauna HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:25,467 : MacCyrillic confidence = 0.003729716199810392, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:25,527 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:25,527 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,527 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,527 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,527 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,527 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,527 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,527 : EUC-TW Taiwan confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,527 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,527 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,527 : ISO-8859-5 Russian confidence = 0.0038604123854172855
+DEBUG : 2023-09-05 01:32:25,527 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:25,527 : IBM866 Russian confidence = 0.10165030967853278
+DEBUG : 2023-09-05 01:32:25,527 : IBM855 Russian confidence = 0.10925839750115678
+DEBUG : 2023-09-05 01:32:25,527 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,527 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,527 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,527 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,527 : TIS-620 Thai confidence = 0.02918846928426177
+DEBUG : 2023-09-05 01:32:25,527 : ISO-8859-9 Turkish confidence = 0.48125214225852814
+DEBUG : 2023-09-05 01:32:25,527 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,527 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,527 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,527 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:25,527 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,527 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,527 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,527 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,527 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,527 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,527 : EUC-TW Taiwan confidence = 0.01
+INFO : 2023-09-05 01:32:25,535 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:25,535 : Search Name:ouro-kronii
+INFO : 2023-09-05 01:32:25,535 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:25,536 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:25,568 : https://hololive.hololivepro.com:443 "GET /talents/ouro-kronii HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:25,621 : MacCyrillic confidence = 0.006678302962877477, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:25,683 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:25,683 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,683 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,683 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,683 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,683 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,683 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,683 : EUC-TW Taiwan confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,684 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,684 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,684 : ISO-8859-5 Russian confidence = 0.003887985819453759
+DEBUG : 2023-09-05 01:32:25,684 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:25,684 : IBM866 Russian confidence = 0.09856032076752058
+DEBUG : 2023-09-05 01:32:25,684 : IBM855 Russian confidence = 0.0943212900303185
+DEBUG : 2023-09-05 01:32:25,684 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,684 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,684 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,684 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,684 : TIS-620 Thai confidence = 0.01852510622047703
+DEBUG : 2023-09-05 01:32:25,684 : ISO-8859-9 Turkish confidence = 0.4720661308296155
+DEBUG : 2023-09-05 01:32:25,684 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,684 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,684 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,684 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:25,684 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,684 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,684 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,684 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,684 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,684 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,684 : EUC-TW Taiwan confidence = 0.01
+INFO : 2023-09-05 01:32:25,692 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:25,692 : Search Name:nanashi-mumei
+INFO : 2023-09-05 01:32:25,692 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:25,694 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:25,727 : https://hololive.hololivepro.com:443 "GET /talents/nanashi-mumei HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:25,776 : MacCyrillic confidence = 0.007617649827320604, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:25,836 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:25,836 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,836 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,836 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,836 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,836 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,836 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,836 : EUC-TW Taiwan confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,836 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,836 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,836 : ISO-8859-5 Russian confidence = 0.004932903092912853
+DEBUG : 2023-09-05 01:32:25,836 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:25,836 : IBM866 Russian confidence = 0.09593363398477524
+DEBUG : 2023-09-05 01:32:25,836 : IBM855 Russian confidence = 0.10341724791331189
+DEBUG : 2023-09-05 01:32:25,836 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,836 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,836 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,836 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,836 : TIS-620 Thai confidence = 0.021512025955733097
+DEBUG : 2023-09-05 01:32:25,836 : ISO-8859-9 Turkish confidence = 0.4817249827852095
+DEBUG : 2023-09-05 01:32:25,836 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,836 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,836 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,836 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:25,836 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,836 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,836 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,836 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,836 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,836 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,836 : EUC-TW Taiwan confidence = 0.01
+INFO : 2023-09-05 01:32:25,844 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:25,844 : Search Name:hakos-baelz
+INFO : 2023-09-05 01:32:25,844 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:25,846 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:25,877 : https://hololive.hololivepro.com:443 "GET /talents/hakos-baelz HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:25,929 : MacCyrillic confidence = 0.003466493882912642, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:25,990 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:25,991 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,991 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,991 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,991 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,991 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,991 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,991 : EUC-TW Taiwan confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,991 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,991 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,991 : ISO-8859-5 Russian confidence = 0.007743565915463645
+DEBUG : 2023-09-05 01:32:25,991 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:25,991 : IBM866 Russian confidence = 0.09288567328308955
+DEBUG : 2023-09-05 01:32:25,991 : IBM855 Russian confidence = 0.10570026095442253
+DEBUG : 2023-09-05 01:32:25,992 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,992 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,992 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,992 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,992 : TIS-620 Thai confidence = 0.02938864798319677
+DEBUG : 2023-09-05 01:32:25,992 : ISO-8859-9 Turkish confidence = 0.47354945581379837
+DEBUG : 2023-09-05 01:32:25,992 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,992 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,992 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:25,992 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:25,992 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,992 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,992 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,992 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,992 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,992 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:25,992 : EUC-TW Taiwan confidence = 0.01
+INFO : 2023-09-05 01:32:26,001 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:26,001 : Search Name:shiori-novella
+INFO : 2023-09-05 01:32:26,001 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:26,002 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:26,032 : https://hololive.hololivepro.com:443 "GET /talents/shiori-novella HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:26,066 : MacCyrillic confidence = 0.003106234363395774, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:26,106 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:26,106 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,106 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,106 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,107 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,107 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,107 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,107 : EUC-TW Taiwan confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,107 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,107 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,107 : ISO-8859-5 Russian confidence = 0.002110294250817175
+DEBUG : 2023-09-05 01:32:26,107 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:26,107 : IBM866 Russian confidence = 0.10083814181765144
+DEBUG : 2023-09-05 01:32:26,107 : IBM855 Russian confidence = 0.09591467282050216
+DEBUG : 2023-09-05 01:32:26,107 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:26,107 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:26,107 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:26,107 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:26,107 : TIS-620 Thai confidence = 0.013726876863022944
+DEBUG : 2023-09-05 01:32:26,107 : ISO-8859-9 Turkish confidence = 0.5016345698364254
+DEBUG : 2023-09-05 01:32:26,107 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:26,107 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:26,107 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:26,107 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:26,107 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,107 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,107 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,107 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,107 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,107 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,107 : EUC-TW Taiwan confidence = 0.01
+INFO : 2023-09-05 01:32:26,112 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:26,112 : Search Name:koseki-bijou
+INFO : 2023-09-05 01:32:26,112 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:26,113 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:26,146 : https://hololive.hololivepro.com:443 "GET /talents/koseki-bijou HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:26,177 : MacCyrillic confidence = 0.002465210978991241, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:26,216 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:26,216 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,216 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,216 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,216 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,216 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,216 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,216 : EUC-TW Taiwan confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,216 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,216 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,216 : ISO-8859-5 Russian confidence = 0.0019974431040471635
+DEBUG : 2023-09-05 01:32:26,216 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:26,216 : IBM866 Russian confidence = 0.08624790172050006
+DEBUG : 2023-09-05 01:32:26,216 : IBM855 Russian confidence = 0.09950185835357266
+DEBUG : 2023-09-05 01:32:26,216 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:26,216 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:26,216 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:26,216 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:26,216 : TIS-620 Thai confidence = 0.018488156443945736
+DEBUG : 2023-09-05 01:32:26,216 : ISO-8859-9 Turkish confidence = 0.507712416922205
+DEBUG : 2023-09-05 01:32:26,216 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:26,216 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:26,216 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:26,216 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:26,216 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,216 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,216 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,216 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,216 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,216 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,216 : EUC-TW Taiwan confidence = 0.01
+INFO : 2023-09-05 01:32:26,221 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:26,221 : Search Name:nerissa-ravencroft
+INFO : 2023-09-05 01:32:26,221 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:26,223 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:26,257 : https://hololive.hololivepro.com:443 "GET /talents/nerissa-ravencroft HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:26,288 : MacCyrillic confidence = 0.0028163916760442203, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:26,328 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:26,328 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,328 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,328 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,329 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,329 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,329 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,329 : EUC-TW Taiwan confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,329 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,329 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,329 : ISO-8859-5 Russian confidence = 0.005549113878250572
+DEBUG : 2023-09-05 01:32:26,329 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:26,329 : IBM866 Russian confidence = 0.10270138796839745
+DEBUG : 2023-09-05 01:32:26,329 : IBM855 Russian confidence = 0.08798456653861463
+DEBUG : 2023-09-05 01:32:26,329 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:26,329 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:26,329 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:26,329 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:26,329 : TIS-620 Thai confidence = 0.012362071538614582
+DEBUG : 2023-09-05 01:32:26,329 : ISO-8859-9 Turkish confidence = 0.5074338657607071
+DEBUG : 2023-09-05 01:32:26,329 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:26,329 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:26,329 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:26,329 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:26,329 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,329 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,329 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,329 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,329 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,329 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,329 : EUC-TW Taiwan confidence = 0.01
+INFO : 2023-09-05 01:32:26,335 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:26,335 : Search Name:fuwawa-abyssgard
+INFO : 2023-09-05 01:32:26,335 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:26,336 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:26,365 : https://hololive.hololivepro.com:443 "GET /talents/fuwawa-abyssgard HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:26,398 : MacCyrillic confidence = 0.0024852579785609717, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:26,438 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:26,438 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,438 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,438 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,438 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,438 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,438 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,438 : EUC-TW Taiwan confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,438 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,438 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,438 : ISO-8859-5 Russian confidence = 0.004080760909056424
+DEBUG : 2023-09-05 01:32:26,438 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:26,438 : IBM866 Russian confidence = 0.09548906275025866
+DEBUG : 2023-09-05 01:32:26,439 : IBM855 Russian confidence = 0.09989134411485143
+DEBUG : 2023-09-05 01:32:26,439 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:26,439 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:26,439 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:26,439 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:26,439 : TIS-620 Thai confidence = 0.025559980256812106
+DEBUG : 2023-09-05 01:32:26,439 : ISO-8859-9 Turkish confidence = 0.5059588117167475
+DEBUG : 2023-09-05 01:32:26,439 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:26,439 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:26,439 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:26,439 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:26,439 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,439 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,439 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,439 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,439 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,439 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,439 : EUC-TW Taiwan confidence = 0.01
+INFO : 2023-09-05 01:32:26,459 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:26,459 : Search Name:mococo-abyssgard
+INFO : 2023-09-05 01:32:26,459 : https://hololive.hololivepro.com/talents/
+DEBUG : 2023-09-05 01:32:26,460 : Starting new HTTPS connection (1): hololive.hololivepro.com:443
+DEBUG : 2023-09-05 01:32:26,492 : https://hololive.hololivepro.com:443 "GET /talents/mococo-abyssgard HTTP/1.1" 200 None
+DEBUG : 2023-09-05 01:32:26,525 : MacCyrillic confidence = 0.0029892445676794003, below negative shortcut threshhold 0.05
+DEBUG : 2023-09-05 01:32:26,566 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:26,566 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,566 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,566 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,566 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,566 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,566 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,566 : EUC-TW Taiwan confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,566 : windows-1251 Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,566 : KOI8-R Russian confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,566 : ISO-8859-5 Russian confidence = 0.003957367942250203
+DEBUG : 2023-09-05 01:32:26,566 : MacCyrillic not active
+DEBUG : 2023-09-05 01:32:26,566 : IBM866 Russian confidence = 0.09277746388834265
+DEBUG : 2023-09-05 01:32:26,566 : IBM855 Russian confidence = 0.11195144377344235
+DEBUG : 2023-09-05 01:32:26,566 : ISO-8859-7 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:26,566 : windows-1253 Greek confidence = 0.0
+DEBUG : 2023-09-05 01:32:26,566 : ISO-8859-5 Bulgairan confidence = 0.0
+DEBUG : 2023-09-05 01:32:26,566 : windows-1251 Bulgarian confidence = 0.0
+DEBUG : 2023-09-05 01:32:26,566 : TIS-620 Thai confidence = 0.0223280564558344
+DEBUG : 2023-09-05 01:32:26,566 : ISO-8859-9 Turkish confidence = 0.5045306747048249
+DEBUG : 2023-09-05 01:32:26,566 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:26,566 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:26,566 : windows-1255 Hebrew confidence = 0.0
+DEBUG : 2023-09-05 01:32:26,566 : utf-8  confidence = 0.99
+DEBUG : 2023-09-05 01:32:26,566 : SHIFT_JIS Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,566 : EUC-JP Japanese confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,566 : GB2312 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,566 : EUC-KR Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,566 : CP949 Korean confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,566 : Big5 Chinese confidence = 0.01
+DEBUG : 2023-09-05 01:32:26,566 : EUC-TW Taiwan confidence = 0.01
+INFO : 2023-09-05 01:32:26,571 : Writing to ./text/talent_id.txt completed.
+INFO : 2023-09-05 01:32:26,572 : -----------------END-------------------
