@@ -1,0 +1,19 @@
+AttributeError: 'NoneType' object has no attribute 'text'
+・このエラーは、オブジェクトがNoneであるにも関わらず、そのオブジェクトの属性（この場合はtext）にアクセスしようとしたときに発生する。
+・例えば、BeautifulSoupで特定の要素を検索したが、その要素がページに存在しない場合、findメソッドはNoneを返します。このNoneに対して.textを呼び出すと、このエラーが発生します。
+
+TypeError: write() argument must be str, not ResultSet
+・このエラーは、write()メソッドに文字列以外の型（この場合はResultSet）を渡したときに発生する。
+・ResultSetは、BeautifulSoupのfind_allメソッドの結果として返されるオブジェクトの型。このオブジェクトを直接write()メソッドに渡すことはできません。
+
+FileNotFoundError: [Errno 2] No such file or directory: 'talent.txt'
+・このエラーは、指定したファイルまたはディレクトリが存在しない場合に発生する。
+・例えば、open関数を使用してファイルを読み込もうとしたが、そのファイルが存在しない場合にこのエラーが発生します。
+
+TypeError: can only concatenate tuple (not "str") to tuple
+・このエラーは、タプルに文字列を連結しようとしたときに発生する。
+・Pythonでは、タプルと文字列のような異なる型のオブジェクトを直接連結することはできません。
+
+KeyError: 'href'
+・このエラーは、辞書に存在しないキーにアクセスしようとしたときに発生する。
+・例えば、BeautifulSoupのタグオブジェクトの属性にアクセスする場合、その属性が存在しないとこのエラーが発生します。この場合、hrefという属性が存在しないためにエラーが発生しています。
